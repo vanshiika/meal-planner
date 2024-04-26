@@ -9,7 +9,7 @@
 - React
 - SASS
 - Flexbox
-- [Edamam](https://www.edamam.com/) recipe search API
+
 
 #### Future Ideas
 - Adding a grocery list aggregating all ingredients from the suggested meals
